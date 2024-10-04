@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./assets/bg-main-desktop.png);
+    object-fit: cover;
+    overflow-x: hidden;
+}
+
+#img1{
+    width: 80px;
+    position: absolute;
+    left: 160px;
+    top: 40px;
+}
+
+#big-txt{
+    position: absolute;
+    /* border: 1px solid red; */
+    left: 150px;
+    top: 150px;
+}
+
+#h21{
+    font-size: 50px;
+}
+
+#img2{
+    position: absolute;
+    width: 200px;
+    left: 1180px;
+    top: -20px;
+}
+
+#p1{
+    position: absolute;
+    top: 300px;
+    left: 154px;
+    line-height: 20px;
+}
+
+#purp{
+    position: absolute;
+    /* border: 1px solid red; */
+    width: 20cm;
+    height: 10cm;
+    top: 650px;
+    left: 160px;
+    background-color: #171721;
+    border-radius: 7px;
+}
+
+#img3{
+    position: absolute;
+    width: 180px;
+    left: 250px;
+}
+
+#phone{
+    position: absolute;
+    width: 200px;
+    left: 95px;
+    top: -140px;
+}
+
+#orange{
+/* border: 1px solid red; */
+position: absolute;
+width: 8cm;
+height: 11cm;
+left: 400px;
+top: 80px;
+background-color: #FE694B;
+border-radius: 6px;
+}
+
+#h31{
+    position: absolute;
+    top:40px ;
+    left: 35px;
+    color: white;
+}
+
+#p2{
+    position: absolute;
+    left: 35px;
+    top: 90px;
+text-align: left;
+color: white;
+line-height: 20px;
+}
+
+#h221{
+    position: absolute;
+    top: 220px;
+    left:50px ;
+    font-size: 50px;
+    color: white;
+}
+
+#pp2{
+    position: absolute;
+top: 240px;
+left: 110px;
+color: white;
+}
+
+#batt{
+    position: absolute;
+    top: 300px;
+    left: 50px;
+    background-color: black;
+    color: white;
+    width: 5cm;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    align-items: center;
+    display: inline-flex;
+}
+#pte{
+    position: absolute;
+    left: 70px;
+}
+
+#immmg{
+    position: absolute;
+    top: 8px;
+    left: 47px;
+}
+
+#bat3{
+    position: absolute;
+    top: 350px;
+    left: 50px;
+    background-color: white;
+    color: black;
+    width: 5cm;
+    padding: 20px;
+    border-radius: 5px;
+    border: none;
+    align-items: center;
+    display: inline-flex;
+    font-weight: 600;
+}
+
+#immmg1{
+    position: absolute;
+    top: 8px;
+    left: 30px;
+}
+
+#ptr{
+    position: absolute;
+    left: 55px;
+}
+
+#foot{
+    position: absolute;
+    /* border: 1px solid red; */
+    width: 100%;
+    top: 1250px;
+    height: 4cm;
+}
+
+#igm2{
+    width: 90px;
+    position: absolute;
+    left: 160px; 
+    
+}
+
+#pftt{
+    position: absolute;
+    left: 400px;
+    line-height: 20px;
+}
+
+#fac{
+    position: absolute;
+    left: 900px;
+    top: 20px;
+}
+
+#insta{
+    position: absolute;
+    left: 950px;
+    top: 20px; 
+}
+
+#twt{
+    position: absolute;
+    left: 1000px;
+    top: 20px;    
+}
