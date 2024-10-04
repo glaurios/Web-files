@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --gradient: linear-gradient( to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
+}
+
+body{
+   position: absolute;
+overflow-y: hidden;
+background-color: #0C122C;
+
+}
+
+#img{
+    width: 1366px;
+    position: absolute;
+    top: 350px;
+   
+}
+
+#first-con{
+    /* border: 1px solid red; */
+    position: absolute;
+    width: 7cm;
+    top: 250px;
+    left: 300px;
+    height: 5cm;
+    border-top-right-radius: 100px;
+    background-color: #1E2C69;
+}
+
+#secn-con{
+    /* border: 1px solid rgb(81, 255, 0); */
+    position: absolute;
+    width: 15cm;
+    top: 290px;
+    left: 600px;
+    height: 4cm;
+    border-radius: 5px;
+    background-color: #1E2C69;
+}
+
+#fly{
+    position: absolute;
+    width: 100px;
+    top: 30px;
+    left: 40px;
+}
+
+#dark{
+    position: absolute;
+    /* border: 1px solid rgb(81, 255, 0); */
+    width: 1.2cm;
+    height: 1.2cm;
+    top: 90px;
+    left: 30px;
+    border-radius: 10px;
+    background-color: #111331;
+}
+
+#dark2{
+    position: absolute;
+    /* border: 1px solid rgb(81, 255, 0); */
+    width: 1.2cm;
+    height: 1.2cm;
+    top: 90px;
+    left: 85px;
+    border-radius: 10px; 
+    background-color: #111331;
+}
+
+#dark3{
+    position: absolute;
+    /* border: 1px solid rgb(81, 255, 0); */
+    width: 1.2cm;
+    height: 1.2cm;
+    top: 90px;
+    left: 140px;
+    border-radius: 10px; 
+    background-color: #111331;
+}
+
+#fol{
+    position: absolute;
+    top: 12px;
+    left: 10px;
+}
+
+#file{
+    position: absolute;
+    top: 10px;
+    left: 12px; 
+}
+
+#upld{
+    position: absolute;
+    top: 14px;
+    left: 10px; 
+}
+
+#pp2{
+    position: absolute;
+    font-size: 15px;
+    top: 50px;
+    left: 30px;
+    color: white;
+}
+
+#frst1{
+    position: absolute;
+    /* border: 1px solid red; */
+    width: 13cm;
+    top: 80px;
+    left: 35px;
+    height: 10px;
+    border-radius: 20px;
+    background-color: #161D49;
+}
+
+#frst2{
+    position: absolute;
+    /* border: 1px solid red; */
+    width: 11cm;
+    top: 0px;
+    left: 0px;
+    height: 8px;
+    border-radius: 20px;
+    background-image: var(--gradient);
+}
+
+#circ{
+    /* border: 1px solid green; */
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    left: 408px;
+    top: 0.4px;
+    
+}
+
+#zer{
+position: absolute;
+top: 100px;
+left: 35px;
+color: white;
+}
+
+#tho{
+    position: absolute;
+    top: 100px;
+    left: 490px;
+    color: white;
+}
+
+#thrd-con{
+    position: absolute;
+    /* border: 1px solid red; */
+    width: 5cm;
+    height: 2cm;
+    left: 920px;
+    top: 240px;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+    border-radius: 10px;
+}
+
+#h22{
+    position: absolute;
+    top: 11px;
+    left: 30px;
+    font-size: 45px;
+}
+
+#pppp{
+    position: absolute;
+    top: 25px;
+    left: 106px;
+    font-size: 13px;
+    color: grey;
+}
+
+#tri{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-top: 40px solid white;
+    top: 60px;
+    left: 159px;
+}
+
